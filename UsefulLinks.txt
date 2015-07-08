@@ -1,0 +1,67 @@
+
+Windows PowerShell DSC: 
+https://technet.microsoft.com/en-gb/library/dn249912.aspx
+
+Introduction to DSC: http://blogs.technet.com/b/privatecloud/archive/2013/08/30/introducing-powershell-desired-state-configuration-dsc.aspx
+	
+Getting Started with PS DSC Training: 
+http://www.microsoftvirtualacademy.com/training-courses/getting-started-with-powershell-desired-state-configuration-dsc-
+	
+https://sqschange.visualstudio.com/DefaultCollection
+
+sqsuser1@outlook.com
+sqsuser2@outlook.com 
+sqsuser3@outlook.com 
+sqsuser4@outlook.com
+
+P@ssword
+
+Windows PowerShell ISE:
+https://visualstudiogallery.msdn.microsoft.com/c9eb3ba8-0c59-4944-9a62-6eee37294597
+	
+https://github.com/features
+
+https://bitbucket.org/
+
+Visual Studio Tools for GIT: 
+https://visualstudiogallery.msdn.microsoft.com/abafc7d6-dcaa-40f4-8a5e-d6724bdb980c
+
+Check this out: https://visualstudio.github.com/
+
+https://github.com/SQS-OS/TurnItOffAndOnAgain
+
+https://github.com/SQS-OS/TurnItOffAndOnAgain
+https://github.com/SQS-OS/TurnItOffAndOnAgain.git
+	
+https://help.github.com/articles/set-up-git/
+
+https://onedrive.live.com/?invref=e692f981aac9c303&invsrc=90
+
+Managing Agile Open-Source Software Projects with Microsoft Visual Studio Online 
+ISBN #: 9781509300648 http://ligman.me/1M05QI9
+
+get-process
+http://powershell.com/cs/blogs/ebookv2/archive/2011/12/12/chapter-1-the-powershell-console.aspx#starting-powershell
+
+http://blogs.technet.com/b/kevinremde/archive/2013/01/19/create-a-windows-azure-network-using-powershell-31-days-of-servers-in-the-cloud-part-19-of-31.aspx
+
+Getting Started with PowerShell: 
+https://www.microsoftvirtualacademy.com/en-US/training-courses/getting-started-with-powershell-3-0-jump-start-8276
+Advanced PowerShell:: 
+https://www.microsoftvirtualacademy.com/en-US/training-courses/advanced-tools-scripting-with-powershell-3-0-jump-start-8277
+Getting Started with PS DSC:
+http://www.microsoftvirtualacademy.com/training-courses/getting-started-with-powershell-desired-state-configuration-dsc-
+
+I've took them from here
+ http://blogs.msdn.com/b/mssmallbiz/archive/2015/07/07/i-m-giving-away-millions-of-free-microsoft-ebooks-again-including-windows-10-windows-8-1-windows-8-windows-7-office-2013-office-365-sharepoint-2013-dynamics-crm-powershell-exchange-server-lync-2013-system-center-azure-clo.aspx
+	
+is our GITHUB
+These come from here : is a Microsoft blog
+http://blogs.msdn.com/b/mssmallbiz/archive/2015/07/07/i-m-giving-away-millions-of-free-microsoft-ebooks-again-including-windows-10-windows-8-1-windows-8-windows-7-office-2013-office-365-sharepoint-2013-dynamics-crm-powershell-exchange-server-lync-2013-system-center-azure-clo.aspx
+all of them are free
+	
+
+	
+
+
+
