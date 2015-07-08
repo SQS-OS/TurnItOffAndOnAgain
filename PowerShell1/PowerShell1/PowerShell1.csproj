@@ -32,6 +32,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Content Include="PowerShellTools.html" />
+    <Content Include="SteveTextFile1.txt" />
     <Content Include="VSlogo.gif" />
   </ItemGroup>
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

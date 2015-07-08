@@ -1,0 +1,65 @@
+
+
+Eduardo Ortega Bermejo	
+Windows PowerShell DSC: 
+https://technet.microsoft.com/en-gb/library/dn249912.aspx
+	
+Introduction to DSC: 
+http://blogs.technet.com/b/privatecloud/archive/2013/08/30/introducing-powershell-desired-state-configuration-dsc.aspx
+	
+Getting Started with PS DSC Training: 
+http://www.microsoftvirtualacademy.com/training-courses/getting-started-with-powershell-desired-state-configuration-dsc-
+
+
+https://sqschange.visualstudio.com/DefaultCollection
+HYPERLINK "mailto:sqsuser1@outlook.com"  sqsuser1@outlook.com, HYPERLINK "mailto:sqsuser2@outlook.com"  sqsuser2@outlook.com, HYPERLINK "mailto:sqsuser3@outlook.com"  sqsuser3@outlook.com and HYPERLINK "mailto:sqsuser4@outlook.com"  sqsuser4@outlook.com
+	
+P@ssword
+
+
+
+Windows PowerShell ISE
+	
+https://visualstudiogallery.msdn.microsoft.com/c9eb3ba8-0c59-4944-9a62-6eee37294597
+
+	
+
+GIT  	
+http://www.itjobswatch.co.uk/default.aspx?id=0&q=BitBucket&l=
+	
+http://www.itjobswatch.co.uk/default.aspx?id=0&q=BitBucket&l=
+	
+http://www.itjobswatch.co.uk/default.aspx?id=0&q=GitHub&l=
+
+
+https://github.com/features
+
+Visual Studio Tools for GIT: https://visualstudiogallery.msdn.microsoft.com/abafc7d6-dcaa-40f4-8a5e-d6724bdb980c
+
+https://bitbucket.org/
+
+https://github.com/
+	
+https://github.com/pricing
+
+
+
+timothyrspencer    Tears001
+
+To join SQS-OS, follow this link:
+
+https://github.com/orgs/SQS-OS/invitation?via_email=1
+
+https://github.com/SQS-OS 
+
+https://github.com/SQS-OS/TurnItOffAndOnAgain		<==========
+
+	
+
+Technologies:
+Visual Studio 2015 Community: 
+https://www.visualstudio.com/vs-2015-product-editions
+GitHub Extension for VS2015: 
+https://visualstudio.github.com/
+PowerShell Tools for VS2015: 
+https://visualstudiogallery.msdn.microsoft.com/c9eb3ba8-0c59-4944-9a62-6eee37294597/
